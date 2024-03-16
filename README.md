@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center"> 
+  🖐Hi, I'm phamminhphuc, welcome to my git! <height="60"> 
+</h1>
+  
+<div align="center">  
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phamminhphuc&theme=radical)
+</div>
+<div align="center">
+<table>
+  
+| My Github Stats             | My most used languages |
+:-:|:-:
+[![Stats](https://acedev003-readme-stats.vercel.app/api?username=phamminhphuc&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/phamminhphuc)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=phamminhphuc&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake)](https://github.com/phamminhphuc)
+</table>
+  </div>
+<!-- <h1 align="center">
+  <a href="https://github.com/phamminhphuc">
+    <img alig src="https://github-profile-trophy.vercel.app/?username=phamminhphuc&theme=dracula"/>
+  </a>
+</h1> -->
 
-<!--
-**phamminhphuc/phamminhphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+[![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=phamminhphuc&theme=react-dark)](https://github.com/phamminhphuc)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ![](https://komarev.com/ghpvc/?username=phamminhphuc&color=238dd9&style=flat&label=VIEWS)
